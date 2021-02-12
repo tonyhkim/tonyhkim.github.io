@@ -2,7 +2,7 @@ body{
   background-color: #FAFAFA;
 }
 
-h1{
+.copy h1{
   top: 312px;
   font-family: Open Sans;
   font-style: normal;
@@ -13,46 +13,43 @@ h1{
   color: #000000;
 }
 
-h2{
+.copy h2{
   top: 298px;
   font-family: Open Sans;
   font-style: normal;
   font-weight: bold;
   font-size: 10px;
   line-height: 14px;
-  /* identical to box height */
   letter-spacing: 0.5px;
   color: #9B9B9B;
   margin-top: 21px;
   margin-bottom: -10px;
 }
 
-p{
+.copy p{
   font-family: Merriweather;
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
   line-height: 18px;
-  /* or 150% */
   color: #4A4A4A;
+  margin-top: 15px;
 }
 
-a{
+.copy a{
   font-family: Open Sans;
   font-style: normal;
   font-weight: bold;
   font-size: 10px;
   line-height: 14px;
-  /* identical to box height */
-
-
   color: #F55423;
   text-decoration: none;
+  margin-bottom: 27px;
 }
 
 .card{
   margin: auto;
-  margin-top: 30%;
+  margin-top: 15%;
   background-color: #FFFFFF;
   width: 270px;
   height: 380px;
