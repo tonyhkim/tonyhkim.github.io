@@ -59,6 +59,7 @@ body{
   height: 154px;
   background-image: url(https://image.shutterstock.com/image-illustration/concept-abstract-quantum-computer-3d-600w-707534518.jpg);
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   border-radius: 3px 3px 0px 0px;
   border-bottom: 3px solid #F55423;
